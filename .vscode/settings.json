@@ -1,0 +1,13 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode", // Définit Prettier comme formateur par défaut
+    "editor.formatOnSave": true, // Active le formatage automatique lors de l'enregistrement
+    "editor.formatOnPaste": true, // Active le formatage automatique lors du collage
+    "editor.formatOnType": true, // Active le formatage automatique lors de la saisie
+    "prettier.singleQuote": true, // Utilise des guillemets simples (vous pouvez mettre false pour des doubles)
+    "prettier.trailingComma": "es5", // Ajoute une virgule de fin là où c'est valide en ES5 (objets, tableaux, etc.)
+    "prettier.tabWidth": 2, // Définit la largeur de tabulation à 2 espaces
+    "prettier.useTabs": false, // Utilise des espaces plutôt que des tabulations
+    "prettier.bracketSpacing": true, // Ajoute un espace entre les accolades
+    "prettier.arrowParens": "always" // Force l'ajout de parenthèses dans les fonctions fléchées
+  }
+  
